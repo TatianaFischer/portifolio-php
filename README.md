@@ -38,5 +38,6 @@ php -S localhost:8888 -d auto_prepend_file=server.php
  Ideal para projetos simples, estudos ou MVPs sem necessidade de Apache/Nginx.</p>
 
 
-###Imagens:
+### Imagens:
+
 <img width="1431" height="852" alt="image" src="https://github.com/user-attachments/assets/b2240e8b-5eb3-4f4a-92d5-0d5e0c210318" />
