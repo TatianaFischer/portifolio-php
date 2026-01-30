@@ -4,7 +4,7 @@ Este projeto é uma aplicação desenvolvida em **PHP** utilizando **Tailwind CS
 
 --------------------------------------------
 ### Objetivo:
-- Entender como funcionam variáveis, condicionais, arrays e funções, incluindo filtros e funções anônimas, além de ver como o PHP se conecta ao HTML. Em seguida, você vai aprender como aplicar estilos com CSS e Tailwind, criando interfaces modernas, responsivas e organizadas em componentes reutilizáveis
+- Entender como funcionam variáveis, condicionais, arrays e funções, incluindo filtros e funções anônimas, além de ver como o PHP se conecta ao HTML. Em seguida, aprender como aplicar estilos com CSS e Tailwind, criando interfaces modernas, responsivas e organizadas em componentes reutilizáveis
 
 --------------------------------------------
 
