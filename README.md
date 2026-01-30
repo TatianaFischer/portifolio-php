@@ -2,19 +2,24 @@
 <p>Projeto para estudos dos fundamento básicos e totalmente iniciais em PHP - curso Rocketseat</p>
 Este projeto é uma aplicação desenvolvida em **PHP** utilizando **Tailwind CSS** para estilização, com foco em simplicidade.
 
+--------------------------------------------
 ### Objetivo:
 - Entender como funcionam variáveis, condicionais, arrays e funções, incluindo filtros e funções anônimas, além de ver como o PHP se conecta ao HTML. Em seguida, você vai aprender como aplicar estilos com CSS e Tailwind, criando interfaces modernas, responsivas e organizadas em componentes reutilizáveis
+
+--------------------------------------------
 
 ### 🛠️ Tecnologias Utilizadas
 - PHP
 - HTML
 - Tailwind
 
+--------------------------------------------
 
 ### Pré-requisitos
 
 - PHP instalado (versão 8+ recomendada)
-
+  
+--------------------------------------------
 
 ### ▶️ Como Rodar o Projeto Localmente
 1. Clone o repositório:
@@ -37,6 +42,7 @@ php -S localhost:8888 -d auto_prepend_file=server.php
 <p>O arquivo server.php é carregado automaticamente antes de cada requisição usando auto_prepend_file.
  Ideal para projetos simples, estudos ou MVPs sem necessidade de Apache/Nginx.</p>
 
+--------------------------------------------
 
 ### Imagens:
 
